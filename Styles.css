@@ -1,0 +1,69 @@
+  div {
+    background-color:hotpink;
+    color: white;
+    padding: 25px;
+    text-align: center; width: 800px; height: 50px;
+  }
+  
+/* Box model */
+  div {
+    width: 750px;
+    padding: 20px;
+    border: 5px solid gray;
+    margin: 0;
+  }
+  /* mouse over element */
+
+  div:hover {
+    background-color: blue;
+  }
+  a.highlight:hover {
+    color: #ff0000;
+  }
+  body {
+    background-color: khaki;
+  }
+
+  /* Display a list of links as aorizontal menu */
+
+  li {
+    display: inline;
+  }
+
+  /* CSS COLOR */
+
+  body{color:darkblue;}
+  h2{color: darkred;}
+ 
+  p {
+    display: inline;
+  }
+
+  li {color:forestgreen;}
+
+  body{font-family:'roboto';}
+
+  p.italic {
+    font-style: italic;
+  }
+
+  /* NAVBAR */
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:beige; width: 400px;
+  }
+  
+  
+  li a {
+    display:inline;
+    padding: 20px;
+  }
+
+  
+
+
+  
